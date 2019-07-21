@@ -11,9 +11,7 @@ SaaS companies are clearly on the upswing, aided by the rapid growth of the larg
   - Securing the Public Cloud
   - The result is a flood of activity among SaaS companies with no signs of slow down. Gartner projects the SaaS market will grow 20% in 2017 over the previous year and another 19% next year. New companies are being launched, and most impressively, old guard software firms are engaging in impressive reinventions as SaaS providers. So here is a list of 50 SaaS companies of note with a little bit of everything mixed in.
 
-SaaS companies
-
-Top SaaS Companies
+## Top SaaS Companies
 1. Salesforce
 The big daddy of the list, this is the company that launched the concept based around customer resource management (CRM). It has since expanded into platform development, marketing, analytics and social networking.
 
