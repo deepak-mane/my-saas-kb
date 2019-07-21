@@ -44,8 +44,6 @@ One of the world’s best-known payroll management brands has gone to the cloud 
 10. Oracle
 Another software giant that got SaaS religion, it has moved all of its line of business on-premises apps to the cloud, including ERP, CRM, SCM, HR and payroll. The company also acquired NetSuite, which sells CRM to SMBs not normally served by Oracle and Salesforce.
 
-See user reviews of Oracle
-
 11. DocuSign
 DocuSign started out as electronic signatures for legal documents but has expanded to help small- and medium-sized businesses collect information, automate data workflows, and sign on various devices.
 
@@ -87,8 +85,6 @@ AdRoll is a marketing platform that enables companies of any size to create pers
 
 24. Xactly
 Xactly offers a suite of products designed around sales and finance management to design, build, manage, audit and optimize sales compensation management programs. It measures sales performance and effectiveness as well as employee engagement.
-
-See user reviews of Xactly
 
 25. Intuit
 Another software company that made a successful pivot to the cloud, Intuit has converted its flagship finance and tax prep software Quicken, QuickBooks, TurboTax, and Mint to on-demand, cloud-based versions that now account for three-quarters of all company revenue.
@@ -147,12 +143,8 @@ Blackboard Learn provides a virtual learning environment and course management s
 41. GoodData
 GoodData provides a business analytics platform for enterprises to create smart business applications using existing data to automate, recommend and make better business decisions.
 
-See user reviews of GoodData
-
 42. SurveyMonkey
 SurveyMonkey offers a cloud-based online survey and questionnaire platform for companies to gather survey-related information.
-
-See user reviews of SurveryMonkey
 
 43. Cvent
 Cvent is a cloud-based an event management and planning platform, allowing planners to manage all aspects of an event, such as online event registration, venue selection, event management, mobile apps for events, e-mail marketing and Web surveys.
