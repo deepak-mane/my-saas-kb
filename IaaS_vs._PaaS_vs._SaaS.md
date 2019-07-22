@@ -93,3 +93,11 @@ SaaS products are fully managed by another company, from the applications to the
 | It refers to cloud-based infrastructure resources that are delivered to organizations via virtualization technology that help organizations build and manage their servers, network, operating systems, and data storage.  | It refers to cloud-based platform services that provide developers with a framework they can use to build custom applications upon.| It refers to cloud-based software that is hosted online by a company and is available for purchase on a subscription basis and is delivered via the internet.|
 
 
+### Basically, the PaaS market has six primary components.
+- Foundational PaaS — New applications targeting a highly fluctuating number of users.
+- Application PaaS — Custom or packaged applications extending major SaaS applications or an ecosystem of business apps on the same platform. (Emphasis added, for reasons that should soon become clear.)
+- Process PaaS — Apps focused on business processes running on a platform that provides modeling, execution, and simulation, extended by a basic programming "container."
+- Integration PaaS — Apps and "mash-ups" focused on cloud-legacy and cloud-cloud integration.
+- Legacy PaaS — Legacy applications migrated from mainframes or traditional C/C#/Java runtime platforms.
+- Content PaaS — Apps focused on content management and document-centric collaboration.
+
