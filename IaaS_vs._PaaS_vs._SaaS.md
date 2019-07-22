@@ -101,3 +101,18 @@ SaaS products are fully managed by another company, from the applications to the
 - Legacy PaaS — Legacy applications migrated from mainframes or traditional C/C#/Java runtime platforms.
 - Content PaaS — Apps focused on content management and document-centric collaboration.
 
+### ServiceNow: Taking a Pass on PaaS to Focus on What Enterprises REALLY Want and Need
+- [by MichaelDortch](https://community.servicenow.com/community?id=community_blog&sys_id=1e4e66addbd0dbc01dcaf3231f961931)
+
+Forrester and others have identified scores of incumbent, upstart, and emerging vendors pursuing the PaaS market. However, despite its inclusion on some of these lists, ServiceNow is NOT a PaaS vendor seeking to compete with the likes of Amazon, Microsoft, Oracle, or even Salesforce.com. And here's why.
+
+  - ServiceNow sells an industry- and market-leading suite of native cloud-based applications for IT service management and enterprise service automation. Those applications run atop the ServiceNow Service Automation Platform, a powerful, robust, flexible, scalable, and secure cloud-based platform built from scratch for the cloud. 
+
+  - That platform not only runs all ServiceNow applications, but creates a single system of record for enterprise people, processes, and resources. And ServiceNow customers and partners are building modern, agile, and effective custom applications atop that very same platform. (Hence the added emphasis above.)
+
+  - System administrators can extend the ServiceNow Service Automation Platform through right-click controls, a Web content management system, a drag-and-drop workflow engine, and more. The platform includes mobile and social technologies, and out-of-the-box integrations with hundreds of other resources — features that are available to any ServiceNow application, regardless of who builds it. And business users quickly adopt ServiceNow applications because they are as intuitive and easy to learn as the consumer Web apps those business users already use.
+
+  - When do-it-yourselfers and contractors buy drill bits, it's not because they want or need drill bits. What they want and need are holes. Similarly, not every enterprise wants or needs a PaaS solution per se. However, every enterprise relies upon at least one custom application, and many users and administrators find their current custom apps ill-performing, user-unfriendly, and difficult or impossible to modify, modernize, or improve. In contrast, enterprises using ServiceNow are able to build and deploy effective applications rapidly, using a platform already used and approved by their IT teams.
+
+  - The ServiceNow Service Automation Platform enables enterprises to "by-PaaS" the confusion of the PaaS market. ServiceNow customers and partners can instead focus on what matters most to them: applications and process improvements that help their businesses to be more agile, responsive, and successful.
+
