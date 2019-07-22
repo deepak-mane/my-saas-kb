@@ -86,3 +86,10 @@ Think of IaaS as the foundation of building a cloud-based service -- whether tha
 
 #### SaaS vs. PaaS
 SaaS products are fully managed by another company, from the applications to the data to the servers, whereas PaaS products can be used as the foundation for building new products on top of the platform's network. With both products, there is a risk of external management data issues compromising the functionality or security of the tools you're using. SaaS is best for companies looking for an out-of-the-box ease of use, and PaaS is best for companies looking to build a solution on an existing network.
+
+| IAAS | PAAS | SAAS |
+|  --- | --- | --- |
+| | | |
+| | | |
+| | | |
+
