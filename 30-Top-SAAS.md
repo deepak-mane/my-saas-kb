@@ -20,36 +20,36 @@ Since their products help businesses achieve goals, B2B SaaS companies are deepl
 Some SaaS companies have stood out from the crowd this year — which is a tough feat to accomplish in their respective markets. To give you an idea of what these organizations look like, we've curated a list of the strongest, fastest-growing, and biggest SaaS companies that you can learn from in 2019.
 
  -[Top SaaS Companies](https://blog.hubspot.com/service/top-saas-companies)
-      - Google
-      - Adobe
-      - Slack
-      - MailChimp
-      - Shopify
-      - Microsoft
-      - SurveyMonkey
-      - MathWorks
-      - HubSpot
-      - Dropbox
-      - KnowBe4
-      - LastPass
-      - Proofpoint
-      - Jamf
-      - Zoom
-      - Atlassian
-      - Freshservice
-      - Ring Central
-      - Teem
-      - Sophos
-      - Salesforce
-      - ServiceNow
-      - Workday
-      - Square
-      - J2 Global
-      - Atlassian Corporation
-      - Splunk
-      - Veeva Systems
-      - DocuSign
-      - The Ultimate Software Group
+  - Google
+  - Adobe
+  - Slack
+  - MailChimp
+  - Shopify
+  - Microsoft
+  - SurveyMonkey
+  - MathWorks
+  - HubSpot
+  - Dropbox
+  - KnowBe4
+  - LastPass
+  - Proofpoint
+  - Jamf
+  - Zoom
+  - Atlassian
+  - Freshservice
+  - Ring Central
+  - Teem
+  - Sophos
+  - Salesforce
+  - ServiceNow
+  - Workday
+  - Square
+  - J2 Global
+  - Atlassian Corporation
+  - Splunk
+  - Veeva Systems
+  - DocuSign
+  - The Ultimate Software Group
     
 ## Strongest SaaS Companies and Products
 This data was collected by G2 Crowd. G2 Crowd uses Grid® Scoring Technology, which establishes its scores of top companies and products on a scale of 0-100 based on user reviews, online sources, and social networks. You can read more about the Grid® Scoring Technology here.
