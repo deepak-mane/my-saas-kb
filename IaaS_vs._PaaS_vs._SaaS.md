@@ -18,7 +18,7 @@ As you might have guessed, thinking about all of the other services you can acce
 ### IaaS vs. PaaS vs. SaaS: What's the Difference?
 IaaS, PaaS, and SaaS stand for the three main categories of cloud computing. Cloud computing is the practice of using a network of different servers that host, store, manage, and process data online -- in "the cloud" I mentioned earlier. Here's a breakdown of the different ways businesses are monetizing cloud computing to offer customers different types of online services:
 
-- IaaS
+#### IaaS
 IaaS stands for "infrastructure as a service." It refers to cloud-based infrastructure resources that are delivered to organizations via virtualization technology that help organizations build and manage their servers, network, operating systems, and data storage. 
 
 IaaS customers can control their own data infrastructure without having to physically manage it on-site. Instead, they can access and store data on servers via a dashboard or API (application programming interface).
