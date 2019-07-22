@@ -150,7 +150,7 @@ ServiceNow provides enterprise automation solutions for streamlining work and co
 
 3. Workday
 Workday is a tool that human resources team use for financial management and human capital management. The market capitalization for workday is $26.2 billion.
-Type of SaaS Company: B2B
+- Type of SaaS Company: B2B
 
 4. Square
 Square is a credit card processing app that lets businesses easily accept credit payments without a cash register. User buy the Square product, plug it into their phone, computer, or tablet, and their device immediately transform into a credit card processor. The market capitalization for Square is $24.7 billion.
