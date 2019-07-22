@@ -1,4 +1,4 @@
-  - # The Top 30 SaaS Companies & Products to Watch in 2019 
+# The Top 30 SaaS Companies & Products to Watch in 2019 
 
 It's undeniable that software as a service (or SaaS) is growing rapidly. In fact, based on a survey conducted by BetterCloud, 73% of organizations who responded said that at least 80% of their apps will be SaaS by 2020. That’s a percentage that's expected to grow past 2020, too.
 
