@@ -89,7 +89,7 @@ SaaS products are fully managed by another company, from the applications to the
 
 | IAAS | PAAS | SAAS |
 |  --- | --- | --- |
-| | | |
-| | | |
+| IaaS stands for "infrastructure as a service."|PaaS stands for "platform as a service."| "SaaS" stands for "software as a service."|
+| It refers to cloud-based infrastructure resources that are delivered to organizations via virtualization technology that help organizations build and manage their servers, network, operating systems, and data storage.  | It refers to cloud-based platform services that provide developers with a framework they can use to build custom applications upon.| It refers to cloud-based software that is hosted online by a company and is available for purchase on a subscription basis and is delivered via the internet.|
 | | | |
 
